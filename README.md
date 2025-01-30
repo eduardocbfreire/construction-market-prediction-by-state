@@ -32,7 +32,7 @@ O trabalho envolveu coleta, tratamento e análise dos dados, utilizando métodos
 
 - **Linguagem:** Python
 - **Bibliotecas:** Pandas, NumPy e Scikit-learn
-- **Processos:** Coleta de dados, análise exploratória, machine learning, visualização de dados
+- **Processos:** Coleta de dados, análise exploratória e machine learning
 
 ## Resultados
 
